@@ -1,0 +1,8 @@
+prefix=/home/jairo/labs_autonoma/catkin_ws/install
+
+Name: autlab1
+Description: Description of autlab1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
