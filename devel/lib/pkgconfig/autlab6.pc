@@ -1,8 +1,0 @@
-prefix=/home/jairo/labs_autonoma/devel
-
-Name: autlab6
-Description: Description of autlab6
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

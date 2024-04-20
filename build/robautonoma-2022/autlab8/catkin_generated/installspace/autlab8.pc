@@ -1,8 +1,0 @@
-prefix=/home/jairo/labs_autonoma/install
-
-Name: autlab8
-Description: Description of autlab8
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
