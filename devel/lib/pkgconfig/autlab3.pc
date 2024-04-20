@@ -1,0 +1,8 @@
+prefix=/home/jairo/labs_autonoma/devel
+
+Name: autlab3
+Description: Description of autlab3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

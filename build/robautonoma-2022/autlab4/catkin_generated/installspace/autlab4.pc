@@ -1,0 +1,8 @@
+prefix=/home/jairo/labs_autonoma/install
+
+Name: autlab4
+Description: Description of autlab4
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
